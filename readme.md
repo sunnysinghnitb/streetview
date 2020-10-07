@@ -87,8 +87,8 @@ key: your API key. <br>
 width: downloaded image width (max 640 for non-premium downloads). <br>
 height: downloaded image height (max 640 for non-premium downloads). <br>
 fov: image field-of-view. <br>
-image_format: desired image format. <br>
-fname: file name <br>
+*image_format*: desired image format. <br>
+*fname*: file name <br>
 
 
 Documentation
