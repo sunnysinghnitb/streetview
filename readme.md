@@ -81,14 +81,14 @@ Params
 :heading: the heading of the photo. Each photo is taken with a 360 <br>
     camera. You need to specify a direction in degrees as the photo
     will only cover a partial region of the panorama. The recommended
-    headings to use are 0, 90, 180, or 270.
-:flat_dir: the directory to save the image to (eg, C:\Users\SUNNY\Documents).
-:key: your API key.
-:width: downloaded image width (max 640 for non-premium downloads).
-:height: downloaded image height (max 640 for non-premium downloads).
-:fov: image field-of-view.
-:image_format: desired image format.
-:fname: file name
+    headings to use are 0, 90, 180, or 270. <br>
+:flat_dir: the directory to save the image to (eg, C:\Users\SUNNY\Documents). <br>
+:key: your API key. <br>
+:width: downloaded image width (max 640 for non-premium downloads). <br>
+:height: downloaded image height (max 640 for non-premium downloads). <br>
+:fov: image field-of-view. <br>
+:image_format: desired image format. <br>
+:fname: file name <br>
 
 
 Documentation
