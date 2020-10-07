@@ -77,8 +77,8 @@ function:
 Params
 ------
 
-:panoid: the panorama id
-:heading: the heading of the photo. Each photo is taken with a 360
+:panoid: the panorama id <br>
+:heading: the heading of the photo. Each photo is taken with a 360 <br>
     camera. You need to specify a direction in degrees as the photo
     will only cover a partial region of the panorama. The recommended
     headings to use are 0, 90, 180, or 270.
